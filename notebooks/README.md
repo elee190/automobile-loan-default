@@ -2,7 +2,7 @@
 
 ### PROBLEM STATEMENT:
 
-We were given the task of building a model to help the company increase the ability to predict those who would be most at risk of defaulting on a car loan. 
+We were given the task of building a model to help the company increase the ability to predict those who would be most at risk of defaulting on a car loan. There was initial i
 
 A README.md file in your project repo. Note that README files are automatically rendered by GitHub when you view a repo. Your README should contain:
 
